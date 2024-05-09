@@ -1,0 +1,2782 @@
+BEGIN:VCALENDAR
+PRODID:-//Mozilla.org/NONSGML Mozilla Calendar V1.1//EN
+VERSION:2.0
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:1
+SUMMARY:World Braille Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240104
+DTEND;VALUE=DATE:20240105
+URL:https://www.un.org/en/observances/braille-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/braille-day\n\nRe
+ solution: https://undocs.org/en/A/RES/73/161
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:2
+SUMMARY:International Day of Education
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240124
+DTEND;VALUE=DATE:20240125
+URL:https://www.un.org/en/observances/education-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/education-day\n\n
+ Resolution: https://undocs.org/en/A/RES/73/25
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:3
+SUMMARY:International Day of Clean Energy
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240126
+DTEND;VALUE=DATE:20240127
+URL:https://www.un.org/en/observances/clean-energy-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/clean-energy-day\
+ n\nResolution: https://undocs.org/en/A/RES/77/327
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:4
+SUMMARY:International Day of Commemoration in Memory of the Victims of the 
+ Holocaust
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240127
+DTEND;VALUE=DATE:20240128
+URL:https://www.un.org/en/observances/holocaust-remembrance-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/holocaust-remembr
+ ance-day\n\nResolution: https://undocs.org/en/A/RES/60/7
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:5
+SUMMARY:World Interfaith Harmony Week\, 1-7 February
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240201
+DTEND;VALUE=DATE:20240207
+URL:https://www.un.org/en/observances/interfaith-harmony-week
+DESCRIPTION:Observance: https://www.un.org/en/observances/interfaith-harmon
+ y-week\n\nResolution: https://undocs.org/en/A/RES/65/5
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:6
+SUMMARY:World Wetlands Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240202
+DTEND;VALUE=DATE:20240203
+URL:https://www.un.org/en/observances/world-wetlands-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/world-wetlands-da
+ y\n\nResolution: https://undocs.org/en/A/RES/75/317
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:7
+SUMMARY:International Day of Human Fraternity
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240204
+DTEND;VALUE=DATE:20240205
+URL:https://www.un.org/en/observances/human-fraternity-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/human-fraternity-
+ day\n\nResolution: https://undocs.org/en/A/RES/75/200
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:8
+SUMMARY:International Day of Zero Tolerance to Female Genital Mutilation
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240206
+DTEND;VALUE=DATE:20240207
+URL:https://www.un.org/en/observances/female-genital-mutilation-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/female-genital-mu
+ tilation-day\n\nResolution: https://undocs.org/en/A/RES/67/146
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:9
+SUMMARY:International Day of the Arabian Leopard
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240210
+DTEND;VALUE=DATE:20240211
+URL:https://www.un.org/en/observances/arabian-leopard-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/arabian-leopard-d
+ ay\n\nResolution: https://undocs.org/en/A/RES/77/295
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:10
+SUMMARY:World Pulses Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240210
+DTEND;VALUE=DATE:20240211
+URL:https://www.un.org/en/observances/world-pulses-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/world-pulses-day\
+ n\nResolution: https://undocs.org/en/A/RES/73/251
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:11
+SUMMARY:International Day of Women and Girls in Science
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240211
+DTEND;VALUE=DATE:20240212
+URL:https://www.un.org/en/observances/women-and-girls-in-science-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/women-and-girls-i
+ n-science-day\n\nResolution: https://undocs.org/en/A/RES/70/212
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:12
+SUMMARY:International Day for the Prevention of Violent Extremism as and wh
+ en Conducive to Terrorism
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240212
+DTEND;VALUE=DATE:20240213
+URL:https://www.un.org/en/observances/prevention-of-violent-extremism-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/prevention-of-vio
+ lent-extremism-day\n\nResolution: https://undocs.org/en/A/RES/77/243
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:13
+SUMMARY:World Radio Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240213
+DTEND;VALUE=DATE:20240214
+URL:https://www.un.org/en/observances/radio-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/radio-day\n\nReso
+ lution: https://undocs.org/en/A/RES/67/124
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:14
+SUMMARY:Global Tourism Resilience Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240217
+DTEND;VALUE=DATE:20240218
+URL:https://www.un.org/en/observances/tourism-resilience-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/tourism-resilienc
+ e-day\n\nResolution: https://undocs.org/en/A/RES/77/269
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:15
+SUMMARY:World Day of Social Justice
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240220
+DTEND;VALUE=DATE:20240221
+URL:https://www.un.org/en/observances/social-justice-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/social-justice-da
+ y\n\nResolution: https://undocs.org/en/A/RES/62/10
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:16
+SUMMARY:International Mother Language Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240221
+DTEND;VALUE=DATE:20240222
+URL:https://www.un.org/en/observances/mother-language-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/mother-language-d
+ ay\n\nResolution: https://undocs.org/en/A/RES/56/262
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:17
+SUMMARY:World Seagrass Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240301
+DTEND;VALUE=DATE:20240302
+URL:https://www.un.org/en/observances/seagrass-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/seagrass-day\n\nR
+ esolution: https://undocs.org/en/A/RES/76/265
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:18
+SUMMARY:Zero Discrimination Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240301
+DTEND;VALUE=DATE:20240302
+URL:https://www.unaids.org/en/observances/zero-discrimination-day
+DESCRIPTION:Observance: https://www.unaids.org/en/observances/zero-discrimi
+ nation-day\n\nResolution: N/A
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:19
+SUMMARY:World Wildlife Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240303
+DTEND;VALUE=DATE:20240304
+URL:https://www.un.org/en/observances/wildlife-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/wildlife-day\n\nR
+ esolution: https://undocs.org/en/A/RES/68/205
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:20
+SUMMARY:International Day for Disarmament and Non-Proliferation Awareness
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240305
+DTEND;VALUE=DATE:20240306
+URL:https://www.un.org/en/observances/disarmament-awareness-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/disarmament-aware
+ ness-day\n\nResolution: https://undocs.org/en/A/RES/77/51
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:21
+SUMMARY:International Women's Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240308
+DTEND;VALUE=DATE:20240309
+URL:https://www.un.org/en/observances/womens-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/womens-day\n\nRes
+ olution: N/A
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:22
+SUMMARY:International Day of Women Judges
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240310
+DTEND;VALUE=DATE:20240311
+URL:https://www.un.org/en/observances/women-judges-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/women-judges-day\
+ n\nResolution: https://undocs.org/en/A/RES/75/274
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:23
+SUMMARY:International Day to Combat Islamophobia
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240315
+DTEND;VALUE=DATE:20240316
+URL:https://www.un.org/en/observances/combat-islamophobia-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/combat-islamophob
+ ia-day\n\nResolution: https://undocs.org/en/A/RES/76/254
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:25
+SUMMARY:French Language Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240320
+DTEND;VALUE=DATE:20240321
+URL:https://www.un.org/en/observances/french-language-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/french-language-d
+ ay\n\nResolution: N/A
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:24
+SUMMARY:International Day of Happiness
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240320
+DTEND;VALUE=DATE:20240321
+URL:https://www.un.org/en/observances/happiness-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/happiness-day\n\n
+ Resolution: https://undocs.org/en/A/RES/66/281
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:27
+SUMMARY:International Day for the Elimination of Racial Discrimination
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240321
+DTEND;VALUE=DATE:20240322
+URL:https://www.un.org/en/observances/racial-discrimination-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/racial-discrimina
+ tion-day\n\nResolution: https://undocs.org/en/A/RES/2142 (XXI)
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:31
+SUMMARY:International Day of Forests
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240321
+DTEND;VALUE=DATE:20240322
+URL:https://www.un.org/en/observances/forests-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/forests-day\n\nRe
+ solution: https://undocs.org/en/A/RES/67/200
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:29
+SUMMARY:International Day of Nowruz
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240321
+DTEND;VALUE=DATE:20240322
+URL:https://www.un.org/en/observances/nowruz-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/nowruz-day\n\nRes
+ olution: https://undocs.org/en/A/RES/64/253
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:26
+SUMMARY:Week of Solidarity with the Peoples Struggling against Racism and R
+ acial Discrimination
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240321
+DTEND;VALUE=DATE:20240327
+URL:https://www.un.org/en/observances/solidarity-week-against-racism
+DESCRIPTION:Observance: https://www.un.org/en/observances/solidarity-week-a
+ gainst-racism\n\nResolution: https://undocs.org/en/A/RES/34/24
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:30
+SUMMARY:World Down Syndrome Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240321
+DTEND;VALUE=DATE:20240322
+URL:https://www.un.org/en/observances/down-syndrome-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/down-syndrome-day
+ \n\nResolution: https://undocs.org/en/A/RES/66/149
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:28
+SUMMARY:World Poetry Day [UNESCO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240321
+DTEND;VALUE=DATE:20240322
+URL:https://www.un.org/en/observances/poetry-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/poetry-day\n\nRes
+ olution: N/A
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:32
+SUMMARY:World Water Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240322
+DTEND;VALUE=DATE:20240323
+URL:https://www.un.org/en/observances/water-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/water-day\n\nReso
+ lution: https://undocs.org/en/A/RES/47/193
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:33
+SUMMARY:World Meteorological Day [WMO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240323
+DTEND;VALUE=DATE:20240324
+URL:https://www.un.org/en/observances/meteorological-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/meteorological-da
+ y\n\nResolution: WMO/EC-XII/Res.6
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:35
+SUMMARY:International Day for the Right to the Truth concerning Gross Human
+  Rights Violations and for the Dignity of Victims
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240324
+DTEND;VALUE=DATE:20240325
+URL:https://www.un.org/en/observances/right-to-truth-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/right-to-truth-da
+ y\n\nResolution: https://undocs.org/en/A/RES/65/196
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:34
+SUMMARY:World Tuberculosis Day [WHO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240324
+DTEND;VALUE=DATE:20240325
+URL:https://www.un.org/en/observances/tuberculosis-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/tuberculosis-day\
+ n\nResolution: N/A
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:36
+SUMMARY:International Day of Remembrance of the Victims of Slavery and the 
+ Transatlantic Slave Trade
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240325
+DTEND;VALUE=DATE:20240326
+URL:https://www.un.org/en/observances/slavery-remembrance-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/slavery-remembran
+ ce-day\n\nResolution: https://undocs.org/en/A/RES/62/122
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:37
+SUMMARY:International Day of Solidarity with Detained and Missing Staff Mem
+ bers
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240325
+DTEND;VALUE=DATE:20240326
+URL:https://www.un.org/en/observances/detained-missing-staff-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/detained-missing-
+ staff-day\n\nResolution: https://undocs.org/en/A/RES/49/59
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:38
+SUMMARY:International Day of Zero Waste
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240330
+DTEND;VALUE=DATE:20240331
+URL:https://www.un.org/en/observances/zero-waste-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/zero-waste-day\n\
+ nResolution: https://undocs.org/en/A/RES/77/161
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:39
+SUMMARY:World Autism Awareness Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240402
+DTEND;VALUE=DATE:20240403
+URL:https://www.un.org/en/observances/world-autism-awareness-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/world-autism-awar
+ eness-day\n\nResolution: https://undocs.org/en/A/RES/62/139
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:40
+SUMMARY:International Day for Mine Awareness and Assistance in Mine Action
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240404
+DTEND;VALUE=DATE:20240405
+URL:https://www.un.org/en/observances/mine-awareness-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/mine-awareness-da
+ y\n\nResolution: https://undocs.org/en/A/RES/60/97
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:41
+SUMMARY:International Day of Conscience
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240405
+DTEND;VALUE=DATE:20240406
+URL:https://www.un.org/en/observances/conscience-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/conscience-day\n\
+ nResolution: https://undocs.org/en/A/RES/73/329
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:42
+SUMMARY:International Day of Sport for Development and Peace
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240406
+DTEND;VALUE=DATE:20240407
+URL:https://www.un.org/en/observances/sport-peace-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/sport-peace-day\n
+ \nResolution: https://undocs.org/en/A/RES/67/296
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:44
+SUMMARY:International Day of Reflection on the 1994 Genocide against the Tu
+ tsi in Rwanda
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240407
+DTEND;VALUE=DATE:20240408
+URL:https://www.un.org/en/observances/genocide-against-tutsi-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/genocide-against-
+ tutsi-day\n\nResolution: https://undocs.org/en/A/RES/58/234
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:43
+SUMMARY:World Health Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240407
+DTEND;VALUE=DATE:20240408
+URL:https://www.un.org/en/observances/world-health-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/world-health-day\
+ n\nResolution: WHA/A.2/Res.35
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:45
+SUMMARY:International Day of Human Space Flight
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240412
+DTEND;VALUE=DATE:20240413
+URL:https://www.un.org/en/observances/human-space-flight-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/human-space-fligh
+ t-day\n\nResolution: https://undocs.org/en/A/RES/65/271
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:46
+SUMMARY:World Chagas Disease Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240414
+DTEND;VALUE=DATE:20240415
+URL:https://www.un.org/en/observances/chagas-disease-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/chagas-disease-da
+ y\n\nResolution: https://undocs.org/en/A/RES/75/262
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:47
+SUMMARY:Chinese Language Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240420
+DTEND;VALUE=DATE:20240421
+URL:https://www.un.org/en/observances/chinese-language-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/chinese-language-
+ day\n\nResolution: N/A
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:48
+SUMMARY:World Creativity and Innovation Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240421
+DTEND;VALUE=DATE:20240422
+URL:https://www.un.org/en/observances/creativity-and-innovation-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/creativity-and-in
+ novation-day\n\nResolution: https://undocs.org/en/A/RES/71/284
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:49
+SUMMARY:International Mother Earth Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240422
+DTEND;VALUE=DATE:20240423
+URL:https://www.un.org/en/observances/mother-earth-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/mother-earth-day\
+ n\nResolution: https://undocs.org/en/A/RES/63/278
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:51
+SUMMARY:English Language Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240423
+DTEND;VALUE=DATE:20240424
+URL:https://www.un.org/en/observances/english-language-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/english-language-
+ day\n\nResolution: N/A
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:52
+SUMMARY:Spanish Language Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240423
+DTEND;VALUE=DATE:20240424
+URL:https://www.un.org/en/observances/spanish-language-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/spanish-language-
+ day\n\nResolution: N/A
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:50
+SUMMARY:World Book and Copyright Day [UNESCO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240423
+DTEND;VALUE=DATE:20240424
+URL:https://www.un.org/en/observances/book-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/book-day\n\nResol
+ ution: UNESCO 28 C/Resolution 3.18
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:54
+SUMMARY:International Day of Multilateralism and Diplomacy for Peace
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240424
+DTEND;VALUE=DATE:20240425
+URL:https://www.un.org/en/observances/multilateralism-diplomacy-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/multilateralism-d
+ iplomacy-day\n\nResolution: https://undocs.org/en/A/RES/73/127
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:53
+SUMMARY:World Immunization Week
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240424
+DTEND;VALUE=DATE:20240430
+URL:https://www.un.org/en/observances/immunization-week
+DESCRIPTION:Observance: https://www.un.org/en/observances/immunization-week
+ \n\nResolution: https://undocs.org/en/A/RES/75/200
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:57
+SUMMARY:International Delegate’s Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240425
+DTEND;VALUE=DATE:20240426
+URL:https://www.un.org/en/observances/delegates-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/delegates-day\n\n
+ Resolution: https://undocs.org/en/A/RES/73/286
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:55
+SUMMARY:International Girls in ICT Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240425
+DTEND;VALUE=DATE:20240426
+URL:https://www.un.org/en/observances/girls-in-ict-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/girls-in-ict-day\
+ n\nResolution: ITU/A/RES/70/125
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:56
+SUMMARY:World Malaria Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240425
+DTEND;VALUE=DATE:20240426
+URL:https://www.un.org/en/observances/malaria-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/malaria-day\n\nRe
+ solution: WHO/A/RES/42.19
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:58
+SUMMARY:International Chernobyl Disaster Remembrance Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240426
+DTEND;VALUE=DATE:20240427
+URL:https://www.un.org/en/observances/chernobyl-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/chernobyl-day\n\n
+ Resolution: https://undocs.org/en/A/RES/71/125
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:59
+SUMMARY:World Intellectual Property Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240426
+DTEND;VALUE=DATE:20240427
+URL:https://www.un.org/en/observances/intellectual-property-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/intellectual-prop
+ erty-day\n\nResolution: WIPO/A/RES/20/4
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:60
+SUMMARY:World Day for Safety and Health at Work
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240428
+DTEND;VALUE=DATE:20240429
+URL:https://www.un.org/en/observances/safety-health-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/safety-health-day
+ \n\nResolution: https://undocs.org/en/A/RES/54/117
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:61
+SUMMARY:International Jazz Day [UNESCO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240430
+DTEND;VALUE=DATE:20240501
+URL:https://www.un.org/en/observances/international-jazz-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/international-jaz
+ z-day\n\nResolution: UNESCO 36 C/Resolution 39
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:62
+SUMMARY:World Tuna Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240502
+DTEND;VALUE=DATE:20240503
+URL:https://www.un.org/en/observances/tuna-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/tuna-day\n\nResol
+ ution: https://undocs.org/en/A/RES/71/124
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:63
+SUMMARY:World Press Freedom Day [UNESCO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240503
+DTEND;VALUE=DATE:20240504
+URL:https://www.un.org/en/observances/press-freedom-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/press-freedom-day
+ \n\nResolution: UNESCO 26 C/Resolution 4.3
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:64
+SUMMARY:World Portuguese Language Day [UNESCO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240505
+DTEND;VALUE=DATE:20240506
+URL:https://www.un.org/en/observances/portuguese-language-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/portuguese-langua
+ ge-day\n\nResolution: UNESCO 29 C/Resolution 39
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:65
+SUMMARY:Time of Remembrance and Reconciliation for Those Who Lost Their Liv
+ es During the Second World War
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240508
+DTEND;VALUE=DATE:20240509
+URL:https://www.un.org/en/observances/remembrance-reconciliation-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/remembrance-recon
+ ciliation-day\n\nResolution: https://undocs.org/en/A/RES/59/26
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:66
+SUMMARY:International Day of Argania
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240510
+DTEND;VALUE=DATE:20240511
+URL:https://www.un.org/en/observances/argania-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/argania-day\n\nRe
+ solution: https://undocs.org/en/A/RES/75/262
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:67
+SUMMARY:World Migratory Bird Day [UNEP]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240511
+DTEND;VALUE=DATE:20240512
+URL:https://www.un.org/en/observances/migratory-bird-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/migratory-bird-da
+ y\n\nResolution: UNEP/A/RES/75/5
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:68
+SUMMARY:International Day of Plant Health [FAO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240512
+DTEND;VALUE=DATE:20240513
+URL:https://www.un.org/en/observances/plant-health-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/plant-health-day\
+ n\nResolution: FAO/A/RES/39/9
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:69
+SUMMARY:International Day of Families
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240515
+DTEND;VALUE=DATE:20240516
+URL:https://www.un.org/en/observances/families-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/families-day\n\nR
+ esolution: https://undocs.org/en/A/RES/47/237
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:71
+SUMMARY:International Day of Light [UNESCO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240516
+DTEND;VALUE=DATE:20240517
+URL:https://www.un.org/en/observances/light-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/light-day\n\nReso
+ lution: UNESCO 39 C/Resolution 16
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:70
+SUMMARY:International Day of Living Together in Peace
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240516
+DTEND;VALUE=DATE:20240517
+URL:https://www.un.org/en/observances/living-together-in-peace-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/living-together-i
+ n-peace-day\n\nResolution: https://undocs.org/en/A/RES/72/130
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:72
+SUMMARY:World Telecommunication and Information Society Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240517
+DTEND;VALUE=DATE:20240518
+URL:https://www.un.org/en/observances/telecommunication-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/telecommunication
+ -day\n\nResolution: https://undocs.org/en/A/RES/60/252
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:73
+SUMMARY:World Bee Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240520
+DTEND;VALUE=DATE:20240521
+URL:https://www.un.org/en/observances/bee-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/bee-day\n\nResolu
+ tion: https://undocs.org/en/A/RES/72/211
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:74
+SUMMARY:International Tea Day [FAO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240521
+DTEND;VALUE=DATE:20240522
+URL:https://www.un.org/en/observances/tea-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/tea-day\n\nResolu
+ tion: FAO/A/RES/67/118
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:75
+SUMMARY:World Day for Cultural Diversity for Dialogue and Development
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240521
+DTEND;VALUE=DATE:20240522
+URL:https://www.un.org/en/observances/cultural-diversity-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/cultural-diversit
+ y-day\n\nResolution: https://undocs.org/en/A/RES/57/249
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:76
+SUMMARY:International Day for Biological Diversity
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240522
+DTEND;VALUE=DATE:20240523
+URL:https://www.un.org/en/observances/biological-diversity-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/biological-divers
+ ity-day\n\nResolution: https://undocs.org/en/A/RES/55/201
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:78
+SUMMARY:International Day to End Obstetric Fistula
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240523
+DTEND;VALUE=DATE:20240524
+URL:https://www.un.org/en/observances/obstetric-fistula-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/obstetric-fistula
+ -day\n\nResolution: https://undocs.org/en/A/RES/67/147
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:77
+SUMMARY:Vesak\, the Day of the Full Moon
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240523
+DTEND;VALUE=DATE:20240524
+URL:https://www.un.org/en/observances/vesak-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/vesak-day\n\nReso
+ lution: https://undocs.org/en/A/RES/54/115
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:79
+SUMMARY:Week of Solidarity with the Peoples of Non-Self-Governing Territori
+ es
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240525
+DTEND;VALUE=DATE:20240531
+URL:https://www.un.org/en/observances/non-self-governing-territories-week
+DESCRIPTION:Observance: https://www.un.org/en/observances/non-self-governin
+ g-territories-week\n\nResolution: https://undocs.org/en/A/RES/54/91
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:80
+SUMMARY:International Day of UN Peacekeepers
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240529
+DTEND;VALUE=DATE:20240530
+URL:https://www.un.org/en/observances/peacekeepers-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/peacekeepers-day\
+ n\nResolution: https://undocs.org/en/A/RES/57/129
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:81
+SUMMARY:International Day of Potato
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240530
+DTEND;VALUE=DATE:20240531
+URL:https://www.un.org/en/observances/potato-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/potato-day\n\nRes
+ olution: https://undocs.org/en/A/RES/78/123
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:82
+SUMMARY:World No-Tobacco Day [WHO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240531
+DTEND;VALUE=DATE:20240601
+URL:https://www.un.org/en/observances/no-tobacco-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/no-tobacco-day\n\
+ nResolution: WHO/A/RES/73/3
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:83
+SUMMARY:Global Day of Parents
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240601
+DTEND;VALUE=DATE:20240602
+URL:https://www.un.org/en/observances/parents-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/parents-day\n\nRe
+ solution: https://undocs.org/en/A/RES/66/292
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:84
+SUMMARY:World Bicycle Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240603
+DTEND;VALUE=DATE:20240604
+URL:https://www.un.org/en/observances/bicycle-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/bicycle-day\n\nRe
+ solution: https://undocs.org/en/A/RES/72/272
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:85
+SUMMARY:International Day of Innocent Children Victims of Aggression [UNESC
+ O]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240604
+DTEND;VALUE=DATE:20240605
+URL:https://www.un.org/en/observances/children-victims-of-aggression-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/children-victims-
+ of-aggression-day\n\nResolution: UNESCO 31 C/Resolution 14
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:87
+SUMMARY:International Day for the Fight against Illegal\, Unreported and Un
+ regulated Fishing
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240605
+DTEND;VALUE=DATE:20240606
+URL:https://www.un.org/en/observances/fight-against-illegal-fishing-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/fight-against-ill
+ egal-fishing-day\n\nResolution: https://undocs.org/en/A/RES/72/72
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:86
+SUMMARY:World Environment Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240605
+DTEND;VALUE=DATE:20240606
+URL:https://www.un.org/en/observances/environment-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/environment-day\n
+ \nResolution: UNEP/EA.4/Res.8
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:88
+SUMMARY:Russian Language Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240606
+DTEND;VALUE=DATE:20240607
+URL:https://www.un.org/en/observances/russian-language-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/russian-language-
+ day\n\nResolution: https://undocs.org/en/A/RES/71/31
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:89
+SUMMARY:World Food Safety Day [WHO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240607
+DTEND;VALUE=DATE:20240608
+URL:https://www.un.org/en/observances/food-safety-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/food-safety-day\n
+ \nResolution: WHO/A.74/8
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:90
+SUMMARY:World Oceans Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240608
+DTEND;VALUE=DATE:20240609
+URL:https://www.un.org/en/observances/oceans-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/oceans-day\n\nRes
+ olution: https://undocs.org/en/A/RES/63/111
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:91
+SUMMARY:World Day Against Child Labour
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240612
+DTEND;VALUE=DATE:20240613
+URL:https://www.un.org/en/observances/child-labour-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/child-labour-day\
+ n\nResolution: https://undocs.org/en/A/RES/66/143
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:92
+SUMMARY:International Albinism Awareness Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240613
+DTEND;VALUE=DATE:20240614
+URL:https://www.un.org/en/observances/albinism-awareness-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/albinism-awarenes
+ s-day\n\nResolution: https://undocs.org/en/A/RES/69/170
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:93
+SUMMARY:World Blood Donor Day [WHA Resolution 58.13]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240614
+DTEND;VALUE=DATE:20240615
+URL:https://www.un.org/en/observances/blood-donor-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/blood-donor-day\n
+ \nResolution: WHA/A.58/13
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:94
+SUMMARY:World Elder Abuse Awareness Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240615
+DTEND;VALUE=DATE:20240616
+URL:https://www.un.org/en/observances/elder-abuse-awareness-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/elder-abuse-aware
+ ness-day\n\nResolution: https://undocs.org/en/A/RES/66/127
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:95
+SUMMARY:International Day of Family Remittances [IFAD]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240616
+DTEND;VALUE=DATE:20240617
+URL:https://www.un.org/en/observances/family-remittances-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/family-remittance
+ s-day\n\nResolution: IFAD/A/RES/67/190
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:96
+SUMMARY:World Day to Combat Desertification and Drought
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240617
+DTEND;VALUE=DATE:20240618
+URL:https://www.un.org/en/observances/desertification-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/desertification-d
+ ay\n\nResolution: https://undocs.org/en/A/RES/49/115
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:97
+SUMMARY:International Day for Countering Hate Speech
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240618
+DTEND;VALUE=DATE:20240619
+URL:https://www.un.org/en/observances/countering-hate-speech-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/countering-hate-s
+ peech-day\n\nResolution: https://undocs.org/en/A/RES/75/309
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:98
+SUMMARY:Sustainable Gastronomy Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240618
+DTEND;VALUE=DATE:20240619
+URL:https://www.un.org/en/observances/sustainable-gastronomy-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/sustainable-gastr
+ onomy-day\n\nResolution: https://undocs.org/en/A/RES/71/246
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:99
+SUMMARY:International Day for the Elimination of Sexual Violence in Conflic
+ t
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240619
+DTEND;VALUE=DATE:20240620
+URL:https://www.un.org/en/observances/sexual-violence-conflict-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/sexual-violence-c
+ onflict-day\n\nResolution: https://undocs.org/en/A/RES/69/293
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:100
+SUMMARY:World Refugee Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240620
+DTEND;VALUE=DATE:20240621
+URL:https://www.un.org/en/observances/refugee-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/refugee-day\n\nRe
+ solution: https://undocs.org/en/A/RES/55/76
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:102
+SUMMARY:International Day of the Celebration of the Solstice
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240621
+DTEND;VALUE=DATE:20240622
+URL:https://www.un.org/en/observances/solstice-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/solstice-day\n\nR
+ esolution: https://undocs.org/en/A/RES/73/300
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:101
+SUMMARY:International Day of Yoga
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240621
+DTEND;VALUE=DATE:20240622
+URL:https://www.un.org/en/observances/yoga-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/yoga-day\n\nResol
+ ution: https://undocs.org/en/A/RES/69/131
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:103
+SUMMARY:International Widows' Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240623
+DTEND;VALUE=DATE:20240624
+URL:https://www.un.org/en/observances/widows-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/widows-day\n\nRes
+ olution: https://undocs.org/en/A/RES/65/189
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:104
+SUMMARY:United Nations Public Service Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240623
+DTEND;VALUE=DATE:20240624
+URL:https://www.un.org/en/observances/public-service-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/public-service-da
+ y\n\nResolution: https://undocs.org/en/A/RES/57/277
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:105
+SUMMARY:International Day of Women in Diplomacy
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240624
+DTEND;VALUE=DATE:20240625
+URL:https://www.un.org/en/observances/women-in-diplomacy-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/women-in-diplomac
+ y-day\n\nResolution: https://undocs.org/en/A/RES/76/269
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:106
+SUMMARY:Day of the Seafarer [IMO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240625
+DTEND;VALUE=DATE:20240626
+URL:https://www.un.org/en/observances/seafarer-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/seafarer-day\n\nR
+ esolution: IMO/Resolution A.1113(30)
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:107
+SUMMARY:International Day against Drug Abuse and Illicit Trafficking
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240626
+DTEND;VALUE=DATE:20240627
+URL:https://www.un.org/en/observances/drug-abuse-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/drug-abuse-day\n\
+ nResolution: https://undocs.org/en/A/RES/42/112
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:108
+SUMMARY:United Nations International Day in Support of Victims of Torture
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240626
+DTEND;VALUE=DATE:20240627
+URL:https://www.un.org/en/observances/support-of-torture-victims-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/support-of-tortur
+ e-victims-day\n\nResolution: https://undocs.org/en/A/RES/52/149
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:109
+SUMMARY:Micro-\, Small and Medium-sized Enterprises Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240627
+DTEND;VALUE=DATE:20240628
+URL:https://www.un.org/en/observances/msme-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/msme-day\n\nResol
+ ution: https://undocs.org/en/A/RES/71/279
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:110
+SUMMARY:International Day of the Tropics
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240629
+DTEND;VALUE=DATE:20240630
+URL:https://www.un.org/en/observances/tropics-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/tropics-day\n\nRe
+ solution: https://undocs.org/en/A/RES/71/279
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:111
+SUMMARY:International Asteroid Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240630
+DTEND;VALUE=DATE:20240701
+URL:https://www.un.org/en/observances/asteroid-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/asteroid-day\n\nR
+ esolution: https://undocs.org/en/A/RES/71/90
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:112
+SUMMARY:International Day of Parliamentarism
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240630
+DTEND;VALUE=DATE:20240701
+URL:https://www.un.org/en/observances/parliamentarism-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/parliamentarism-d
+ ay\n\nResolution: https://undocs.org/en/A/RES/72/278
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:113
+SUMMARY:International Day of Cooperatives
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240706
+DTEND;VALUE=DATE:20240707
+URL:https://www.un.org/en/observances/cooperatives-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/cooperatives-day\
+ n\nResolution: https://undocs.org/en/A/RES/47/90
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:114
+SUMMARY:World Kiswahili Language Day [UNESCO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240707
+DTEND;VALUE=DATE:20240708
+URL:https://www.un.org/en/observances/kiswahili-language-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/kiswahili-languag
+ e-day\n\nResolution: UNESCO GC 41 C/61
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:115
+SUMMARY:World Population Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240711
+DTEND;VALUE=DATE:20240712
+URL:https://www.un.org/en/observances/population-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/population-day\n\
+ nResolution: https://undocs.org/en/A/RES/45/216
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:116
+SUMMARY:International Day of Combating Sand and Dust Storms
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240712
+DTEND;VALUE=DATE:20240713
+URL:https://www.un.org/en/observances/sand-and-dust-storms-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/sand-and-dust-sto
+ rms-day\n\nResolution: https://undocs.org/en/A/RES/77/294
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:117
+SUMMARY:World Youth Skills Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240715
+DTEND;VALUE=DATE:20240716
+URL:https://www.un.org/en/observances/youth-skills-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/youth-skills-day\
+ n\nResolution: https://undocs.org/en/A/RES/69/145
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:118
+SUMMARY:Nelson Mandela International Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240718
+DTEND;VALUE=DATE:20240719
+URL:https://www.un.org/en/observances/mandela-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/mandela-day\n\nRe
+ solution: https://undocs.org/en/A/RES/64/13
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:119
+SUMMARY:International Moon Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240721
+URL:https://www.un.org/en/observances/moon-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/moon-day\n\nResol
+ ution: https://undocs.org/en/A/RES/76/76
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:120
+SUMMARY:World Chess Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240720
+DTEND;VALUE=DATE:20240721
+URL:https://www.un.org/en/observances/chess-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/chess-day\n\nReso
+ lution: https://undocs.org/en/A/RES/74/22
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:121
+SUMMARY:World Drowning Prevention Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240725
+DTEND;VALUE=DATE:20240726
+URL:https://www.un.org/en/observances/drowning-prevention-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/drowning-preventi
+ on-day\n\nResolution: https://undocs.org/en/A/RES/75/273
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:122
+SUMMARY:World Hepatitis Day [WHO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240728
+DTEND;VALUE=DATE:20240729
+URL:https://www.un.org/en/observances/hepatitis-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/hepatitis-day\n\n
+ Resolution: WHO/A.67/22
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:123
+SUMMARY:International Day of Friendship
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240730
+DTEND;VALUE=DATE:20240731
+URL:https://www.un.org/en/observances/friendship-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/friendship-day\n\
+ nResolution: https://undocs.org/en/A/RES/65/275
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:124
+SUMMARY:World Day against Trafficking in Persons
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240730
+DTEND;VALUE=DATE:20240731
+URL:https://www.un.org/en/observances/trafficking-in-persons-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/trafficking-in-pe
+ rsons-day\n\nResolution: https://undocs.org/en/A/RES/68/192
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:125
+SUMMARY:World Breastfeeding Week\, 1-7 August [WHO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240801
+DTEND;VALUE=DATE:20240807
+URL:https://www.un.org/en/observances/breastfeeding-week
+DESCRIPTION:Observance: https://www.un.org/en/observances/breastfeeding-wee
+ k\n\nResolution: WHO/A.74/7
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:126
+SUMMARY:International Day of the World's Indigenous Peoples
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240809
+DTEND;VALUE=DATE:20240810
+URL:https://www.un.org/en/observances/indigenous-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/indigenous-day\n\
+ nResolution: https://undocs.org/en/A/RES/49/214
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:127
+SUMMARY:World Steelpan Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240811
+DTEND;VALUE=DATE:20240812
+URL:https://www.un.org/en/observances/steelpan-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/steelpan-day\n\nR
+ esolution: https://undocs.org/en/A/RES/77/316
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:128
+SUMMARY:International Youth Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240812
+DTEND;VALUE=DATE:20240813
+URL:https://www.un.org/en/observances/youth-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/youth-day\n\nReso
+ lution: https://undocs.org/en/A/RES/54/120
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:129
+SUMMARY:World Humanitarian Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240819
+DTEND;VALUE=DATE:20240820
+URL:https://www.un.org/en/observances/humanitarian-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/humanitarian-day\
+ n\nResolution: https://undocs.org/en/A/RES/63/139
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:130
+SUMMARY:International Day of Remembrance and Tribute to the Victims of Terr
+ orism
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240821
+DTEND;VALUE=DATE:20240822
+URL:https://www.un.org/en/observances/victims-terrorism-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/victims-terrorism
+ -day\n\nResolution: https://undocs.org/en/A/RES/72/165
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:131
+SUMMARY:International Day Commemorating the Victims of Acts of Violence Bas
+ ed on Religion or Belief
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240822
+DTEND;VALUE=DATE:20240823
+URL:https://www.un.org/en/observances/religion-belief-victims-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/religion-belief-v
+ ictims-day\n\nResolution: https://undocs.org/en/A/RES/73/296
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:132
+SUMMARY:International Day for the Remembrance of the Slave Trade and Its Ab
+ olition [UNESCO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240823
+DTEND;VALUE=DATE:20240824
+URL:https://www.un.org/en/observances/slave-trade-remembrance-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/slave-trade-remem
+ brance-day\n\nResolution: 29 C/Resolution 40
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:133
+SUMMARY:International Day against Nuclear Tests
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240829
+DTEND;VALUE=DATE:20240830
+URL:https://www.un.org/en/observances/against-nuclear-tests-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/against-nuclear-t
+ ests-day\n\nResolution: https://undocs.org/en/A/RES/64/35
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:134
+SUMMARY:International Day of the Victims of Enforced Disappearances
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240830
+DTEND;VALUE=DATE:20240831
+URL:https://www.un.org/en/observances/enforced-disappearances-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/enforced-disappea
+ rances-day\n\nResolution: https://undocs.org/en/A/RES/65/209
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:135
+SUMMARY:International Day for People of African Descent
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240831
+DTEND;VALUE=DATE:20240901
+URL:https://www.un.org/en/observances/people-african-descent-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/people-african-de
+ scent-day\n\nResolution: https://undocs.org/en/A/RES/75/170
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:136
+SUMMARY:International Day of Charity
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240905
+DTEND;VALUE=DATE:20240906
+URL:https://www.un.org/en/observances/charity-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/charity-day\n\nRe
+ solution: https://undocs.org/en/A/RES/67/105
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:139
+SUMMARY:International Day of Clean Air for Blue Skies
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240907
+DTEND;VALUE=DATE:20240908
+URL:https://www.un.org/en/observances/clean-air-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/clean-air-day\n\n
+ Resolution: https://undocs.org/en/A/RES/74/212
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:137
+SUMMARY:International Day of Police Cooperation
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240907
+DTEND;VALUE=DATE:20240908
+URL:https://www.un.org/en/observances/police-cooperation-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/police-cooperatio
+ n-day\n\nResolution: https://undocs.org/en/A/RES/77/241
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:138
+SUMMARY:World Duchenne Awareness Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240907
+DTEND;VALUE=DATE:20240908
+URL:https://www.un.org/en/observances/duchenne-awareness-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/duchenne-awarenes
+ s-day\n\nResolution: https://undocs.org/en/A/RES/78/12
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:140
+SUMMARY:International Literacy Day [UNESCO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240908
+DTEND;VALUE=DATE:20240909
+URL:https://www.un.org/en/observances/literacy-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/literacy-day\n\nR
+ esolution: UNESCO 14 C/Resolution 1.441
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:141
+SUMMARY:International Day to Protect Education from Attack
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240909
+DTEND;VALUE=DATE:20240910
+URL:https://www.un.org/en/observances/protect-education-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/protect-education
+ -day\n\nResolution: https://undocs.org/en/A/RES/74/275
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:142
+SUMMARY:United Nations Day for South-South Cooperation
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240912
+DTEND;VALUE=DATE:20240913
+URL:https://www.un.org/en/observances/south-south-cooperation-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/south-south-coope
+ ration-day\n\nResolution: https://undocs.org/en/A/RES/58/220
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:143
+SUMMARY:International Day of Democracy
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240915
+DTEND;VALUE=DATE:20240916
+URL:https://www.un.org/en/observances/democracy-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/democracy-day\n\n
+ Resolution: https://undocs.org/en/A/RES/62/7
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:144
+SUMMARY:International Day for Interventional Cardiology
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240917
+URL:https://www.un.org/en/observances/interventional-cardiology-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/interventional-ca
+ rdiology-day\n\nResolution: https://undocs.org/en/A/RES/76/302
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:145
+SUMMARY:International Day for the Preservation of the Ozone Layer
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240916
+DTEND;VALUE=DATE:20240917
+URL:https://www.un.org/en/observances/ozone-layer-preservation-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/ozone-layer-prese
+ rvation-day\n\nResolution: https://undocs.org/en/A/RES/49/114
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:146
+SUMMARY:World Patient Safety Day [WHO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240917
+DTEND;VALUE=DATE:20240918
+URL:https://www.un.org/en/observances/patient-safety-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/patient-safety-da
+ y\n\nResolution: WHO
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:147
+SUMMARY:International Equal Pay Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240918
+DTEND;VALUE=DATE:20240919
+URL:https://www.un.org/en/observances/equal-pay-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/equal-pay-day\n\n
+ Resolution: https://undocs.org/en/A/RES/74/142
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:148
+SUMMARY:World Cleanup Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240920
+DTEND;VALUE=DATE:20240921
+URL:https://www.un.org/en/observances/cleanup-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/cleanup-day\n\nRe
+ solution: https://undocs.org/en/A/RES/78/122
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:149
+SUMMARY:International Day of Peace
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240921
+DTEND;VALUE=DATE:20240922
+URL:https://www.un.org/en/observances/peace-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/peace-day\n\nReso
+ lution: https://undocs.org/en/A/RES/36/67
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:150
+SUMMARY:International Day of Sign Languages [UNESCO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240923
+DTEND;VALUE=DATE:20240924
+URL:https://www.un.org/en/observances/sign-languages-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/sign-languages-da
+ y\n\nResolution: https://undocs.org/en/A/RES/72/161
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:152
+SUMMARY:International Day for the Total Elimination of Nuclear Weapons
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240926
+DTEND;VALUE=DATE:20240927
+URL:https://www.un.org/en/observances/total-elimination-nuclear-weapons-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/total-elimination
+ -nuclear-weapons-day\n\nResolution: https://undocs.org/en/A/RES/68/32
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:151
+SUMMARY:World Maritime Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240926
+DTEND;VALUE=DATE:20240927
+URL:https://www.un.org/en/observances/maritime-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/maritime-day
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:153
+SUMMARY:World Tourism Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240927
+DTEND;VALUE=DATE:20240928
+URL:https://www.un.org/en/observances/tourism-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/tourism-day
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:154
+SUMMARY:International Day for Universal Access to Information
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240928
+DTEND;VALUE=DATE:20240929
+URL:https://www.un.org/en/observances/universal-access-information-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/universal-access-
+ information-day\n\nResolution: https://undocs.org/en/A/RES/74/5
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:155
+SUMMARY:International Day of Awareness of Food Loss and Waste
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240929
+DTEND;VALUE=DATE:20240930
+URL:https://www.un.org/en/observances/food-loss-waste-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/food-loss-waste-d
+ ay\n\nResolution: https://undocs.org/en/A/RES/74/209
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:156
+SUMMARY:International Translation Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20240930
+DTEND;VALUE=DATE:20241001
+URL:https://www.un.org/en/observances/translation-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/translation-day\n
+ \nResolution: https://undocs.org/en/A/RES/71/288
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:157
+SUMMARY:International Day of Older Persons
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241001
+DTEND;VALUE=DATE:20241002
+URL:https://www.un.org/en/observances/older-persons-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/older-persons-day
+ \n\nResolution: https://undocs.org/en/A/RES/45/106
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:158
+SUMMARY:International Day of Non-Violence
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241002
+DTEND;VALUE=DATE:20241003
+URL:https://www.un.org/en/observances/non-violence-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/non-violence-day\
+ n\nResolution: https://undocs.org/en/A/RES/61/271
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:159
+SUMMARY:World Space Week
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241004
+DTEND;VALUE=DATE:20241010
+URL:https://www.un.org/en/observances/world-space-week
+DESCRIPTION:Observance: https://www.un.org/en/observances/world-space-week\
+ n\nResolution: https://undocs.org/en/A/RES/54/68
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:160
+SUMMARY:World Teachers’ Day [UNESCO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241005
+DTEND;VALUE=DATE:20241006
+URL:https://www.un.org/en/observances/teachers-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/teachers-day\n\nR
+ esolution: https://unesdoc.unesco.org/ark:/48223/pf0000371810
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:162
+SUMMARY:World Cotton Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241008
+URL:https://www.un.org/en/observances/cotton-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/cotton-day\n\nRes
+ olution: https://undocs.org/en/A/RES/75/318
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:161
+SUMMARY:World Habitat Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241007
+DTEND;VALUE=DATE:20241008
+URL:https://www.un.org/en/observances/habitat-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/habitat-day\n\nRe
+ solution: https://undocs.org/en/A/RES/40/202%20A
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:163
+SUMMARY:World Post Day [UPU]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241009
+DTEND;VALUE=DATE:20241010
+URL:https://www.un.org/en/observances/post-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/post-day\n\nResol
+ ution: https://www.upu.int/sites/portal/files/documents/30068/31466/31472/R
+ E252_EN.pdf
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:164
+SUMMARY:World Mental Health Day [WHO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241010
+DTEND;VALUE=DATE:20241011
+URL:https://www.un.org/en/observances/mental-health-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/mental-health-day
+ \n\nResolution: N/A
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053841Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:165
+SUMMARY:International Day of the Girl Child
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241011
+DTEND;VALUE=DATE:20241012
+URL:https://www.un.org/en/observances/girl-child-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/girl-child-day\n\
+ nResolution: https://undocs.org/en/A/RES/66/170\n\nResolution: http://undoc
+ s.org/en/A/RES/66/170
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:166
+SUMMARY:World Migratory Bird Day [UNEP]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241012
+DTEND;VALUE=DATE:20241013
+URL:https://www.un.org/en/observances/migratory-bird-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/migratory-bird-da
+ y
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:167
+SUMMARY:International Day for Disaster Risk Reduction
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241013
+DTEND;VALUE=DATE:20241014
+URL:https://www.un.org/en/observances/disaster-risk-reduction-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/disaster-risk-red
+ uction-day\n\nResolution: https://undocs.org/en/A/RES/64/200
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:168
+SUMMARY:International Day of Rural Women
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241015
+DTEND;VALUE=DATE:20241016
+URL:https://www.un.org/en/observances/rural-women-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/rural-women-day\n
+ \nResolution: https://undocs.org/en/A/RES/62/136
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:169
+SUMMARY:World Food Day [FAO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241016
+DTEND;VALUE=DATE:20241017
+URL:https://www.un.org/en/observances/food-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/food-day\n\nResol
+ ution: https://undocs.org/en/A/RES/35/70
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:170
+SUMMARY:International Day for the Eradication of Poverty
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241017
+DTEND;VALUE=DATE:20241018
+URL:https://www.un.org/en/observances/eradication-poverty-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/eradication-pover
+ ty-day\n\nResolution: https://undocs.org/en/A/RES/47/196
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:172
+SUMMARY:Disarmament Week
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241024
+DTEND;VALUE=DATE:20241030
+URL:https://www.un.org/en/observances/disarmament-week
+DESCRIPTION:Observance: https://www.un.org/en/observances/disarmament-week\
+ n\nResolution: https://undocs.org/en/A/RES/S-10/2
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:171
+SUMMARY:Global Media and Information Literacy Week
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241024
+DTEND;VALUE=DATE:20241031
+URL:https://www.un.org/en/observances/media-information-literacy-week
+DESCRIPTION:Observance: https://www.un.org/en/observances/media-information
+ -literacy-week\n\nResolution: https://undocs.org/en/A/RES/75/267
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:173
+SUMMARY:United Nations Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241024
+DTEND;VALUE=DATE:20241025
+URL:https://www.un.org/en/observances/united-nations-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/united-nations-da
+ y\n\nResolution: http://undocs.org/en/A/RES/168%20(II)
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:174
+SUMMARY:World Development Information Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241024
+DTEND;VALUE=DATE:20241025
+URL:https://www.un.org/en/observances/development-information-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/development-infor
+ mation-day\n\nResolution: https://undocs.org/en/A/RES/303(IV)
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:175
+SUMMARY:World Cities Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241031
+DTEND;VALUE=DATE:20241101
+URL:https://www.un.org/en/observances/cities-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/cities-day\n\nRes
+ olution: https://undocs.org/en/A/RES/68/239
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:176
+SUMMARY:International Day to End Impunity for Crimes against Journalists
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241102
+DTEND;VALUE=DATE:20241103
+URL:https://www.un.org/en/observances/end-impunity-journalists-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/end-impunity-jour
+ nalists-day\n\nResolution: https://undocs.org/en/A/RES/68/163
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:177
+SUMMARY:World Tsunami Awareness Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241105
+DTEND;VALUE=DATE:20241106
+URL:https://www.un.org/en/observances/tsunami-awareness-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/tsunami-awareness
+ -day\n\nResolution: https://undocs.org/en/A/RES/70/203
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:178
+SUMMARY:International Day for Preventing the Exploitation of the Environmen
+ t in War and Armed Conflict
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241106
+DTEND;VALUE=DATE:20241107
+URL:https://www.un.org/en/observances/environment-war-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/environment-war-d
+ ay\n\nResolution: https://undocs.org/en/A/RES/56/4
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:179
+SUMMARY:International Week of Science and Peace
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241109
+DTEND;VALUE=DATE:20241115
+URL:https://www.un.org/en/observances/science-peace-week
+DESCRIPTION:Observance: https://www.un.org/en/observances/science-peace-wee
+ k\n\nResolution: https://undocs.org/en/A/RES/43/61
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:180
+SUMMARY:World Science Day for Peace and Development
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241110
+DTEND;VALUE=DATE:20241111
+URL:https://www.un.org/en/observances/science-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/science-day\n\nRe
+ solution: https://unesdoc.unesco.org/ark:/48223/pf0000371710
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:181
+SUMMARY:World Diabetes Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241114
+DTEND;VALUE=DATE:20241115
+URL:https://www.un.org/en/observances/diabetes-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/diabetes-day\n\nR
+ esolution: https://undocs.org/en/A/RES/61/225
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:182
+SUMMARY:International Day for Tolerance [UNESCO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241116
+DTEND;VALUE=DATE:20241117
+URL:https://www.un.org/en/observances/tolerance-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/tolerance-day\n\n
+ Resolution: https://unesdoc.unesco.org/ark:/48223/pf0000372232
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:183
+SUMMARY:World Day of Remembrance for Road Traffic Victims
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241117
+DTEND;VALUE=DATE:20241118
+URL:https://www.un.org/en/observances/road-traffic-victims-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/road-traffic-vict
+ ims-day\n\nResolution: https://undocs.org/en/A/RES/60/5
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:184
+SUMMARY:World Antimicrobial Resistance Awareness Week
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241124
+URL:https://www.un.org/en/observances/antimicrobial-resistance-awareness-we
+ ek
+DESCRIPTION:Observance: https://www.un.org/en/observances/antimicrobial-res
+ istance-awareness-week\n\nResolution: https://undocs.org/en/A/RES/71/179
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:185
+SUMMARY:World Day for the Prevention of and Healing from Child Sexual Explo
+ itation\, Abuse and Violence
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241118
+DTEND;VALUE=DATE:20241119
+URL:https://www.un.org/en/observances/child-sexual-exploitation-prevention-
+ day
+DESCRIPTION:Observance: https://www.un.org/en/observances/child-sexual-expl
+ oitation-prevention-day\n\nResolution: https://undocs.org/en/A/RES/77/8
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:186
+SUMMARY:World Toilet Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241119
+DTEND;VALUE=DATE:20241120
+URL:https://www.un.org/en/observances/toilet-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/toilet-day\n\nRes
+ olution: https://undocs.org/en/A/RES/67/291
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:187
+SUMMARY:Africa Industrialization Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241120
+DTEND;VALUE=DATE:20241121
+URL:https://www.un.org/en/observances/africa-industrialization-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/africa-industrial
+ ization-day\n\nResolution: https://undocs.org/en/A/RES/44/237
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:188
+SUMMARY:World Children's Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241120
+DTEND;VALUE=DATE:20241121
+URL:https://www.un.org/en/observances/childrens-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/childrens-day\n\n
+ Resolution: https://undocs.org/en/A/RES/836(IX)
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:189
+SUMMARY:World Philosophy Day [UNESCO]
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241121
+DTEND;VALUE=DATE:20241122
+URL:https://www.un.org/en/observances/philosophy-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/philosophy-day\n\
+ nResolution: https://unesdoc.unesco.org/ark:/48223/pf0000371927
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:190
+SUMMARY:World Television Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241121
+DTEND;VALUE=DATE:20241122
+URL:https://www.un.org/en/observances/television-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/television-day\n\
+ nResolution: https://undocs.org/en/A/RES/51/205
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:191
+SUMMARY:International Day for the Elimination of Violence against Women
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241125
+DTEND;VALUE=DATE:20241126
+URL:https://www.un.org/en/observances/elimination-violence-against-women-da
+ y
+DESCRIPTION:Observance: https://www.un.org/en/observances/elimination-viole
+ nce-against-women-day\n\nResolution: https://undocs.org/en/A/RES/54/134
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:192
+SUMMARY:World Sustainable Transport Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241126
+DTEND;VALUE=DATE:20241127
+URL:https://www.un.org/en/observances/sustainable-transport-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/sustainable-trans
+ port-day\n\nResolution: https://undocs.org/en/A/RES/77/286
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:193
+SUMMARY:International Day of Solidarity with the Palestinian People
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241129
+DTEND;VALUE=DATE:20241130
+URL:https://www.un.org/en/observances/solidarity-day-palestinian-people
+DESCRIPTION:Observance: https://www.un.org/en/observances/solidarity-day-pa
+ lestinian-people\n\nResolution: https://undocs.org/en/A/RES/32/40B
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:194
+SUMMARY:Day of Remembrance for all Victims of Chemical Warfare
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241130
+DTEND;VALUE=DATE:20241201
+URL:https://www.un.org/en/observances/victims-chemical-warfare-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/victims-chemical-
+ warfare-day\n\nResolution: https://www.opcw.org/sites/default/files/documen
+ ts/C-20-DEC.10%20-%20E.pdf
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:195
+SUMMARY:World AIDS Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241201
+DTEND;VALUE=DATE:20241202
+URL:https://www.un.org/en/observances/world-aids-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/world-aids-day\n\
+ nResolution: https://undocs.org/en/A/RES/43/15
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:196
+SUMMARY:International Day for the Abolition of Slavery
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241203
+URL:https://www.un.org/en/observances/slavery-abolition-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/slavery-abolition
+ -day\n\nResolution: https://undocs.org/en/A/RES/317(IV)
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:197
+SUMMARY:International Day of Persons with Disabilities
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241203
+DTEND;VALUE=DATE:20241204
+URL:https://www.un.org/en/observances/day-of-persons-with-disabilities
+DESCRIPTION:Observance: https://www.un.org/en/observances/day-of-persons-wi
+ th-disabilities\n\nResolution: https://undocs.org/en/A/RES/47/3
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:198
+SUMMARY:International Day of Banks
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241204
+DTEND;VALUE=DATE:20241205
+URL:https://www.un.org/en/observances/banks-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/banks-day\n\nReso
+ lution: https://undocs.org/en/A/RES/74/245
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:199
+SUMMARY:International Volunteer Day for Economic and Social Development
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241205
+DTEND;VALUE=DATE:20241206
+URL:https://www.un.org/en/observances/volunteer-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/volunteer-day\n\n
+ Resolution: https://undocs.org/en/A/RES/40/212
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:200
+SUMMARY:World Soil Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241205
+DTEND;VALUE=DATE:20241206
+URL:https://www.un.org/en/observances/soil-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/soil-day\n\nResol
+ ution: https://undocs.org/en/A/RES/68/232
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:201
+SUMMARY:International Civil Aviation Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241207
+DTEND;VALUE=DATE:20241208
+URL:https://www.un.org/en/observances/civil-aviation-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/civil-aviation-da
+ y\n\nResolution: https://undocs.org/en/A/RES/51/33
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:203
+SUMMARY:International Anti-Corruption Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241210
+URL:https://www.un.org/en/observances/anti-corruption-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/anti-corruption-d
+ ay\n\nResolution: https://undocs.org/en/A/RES/58/4
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:202
+SUMMARY:International Day of Commemoration and Dignity of the Victims of th
+ e Crime of Genocide and of the Prevention of this Crime
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241209
+DTEND;VALUE=DATE:20241210
+URL:https://www.un.org/en/observances/genocide-prevention-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/genocide-preventi
+ on-day\n\nResolution: https://undocs.org/en/A/RES/69/323
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:204
+SUMMARY:Human Rights Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241210
+DTEND;VALUE=DATE:20241211
+URL:https://www.un.org/en/observances/human-rights-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/human-rights-day\
+ n\nResolution: https://undocs.org/en/A/RES/423(V)
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:205
+SUMMARY:International Mountain Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241211
+DTEND;VALUE=DATE:20241212
+URL:https://www.un.org/en/observances/mountain-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/mountain-day\n\nR
+ esolution: https://undocs.org/en/A/RES/57/245
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:206
+SUMMARY:International Day of Neutrality
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241212
+DTEND;VALUE=DATE:20241213
+URL:https://www.un.org/en/observances/neutrality-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/neutrality-day\n\
+ nResolution: https://undocs.org/en/A/RES/71/275
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:207
+SUMMARY:International Universal Health Coverage Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241212
+DTEND;VALUE=DATE:20241213
+URL:https://www.un.org/en/observances/universal-health-coverage-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/universal-health-
+ coverage-day\n\nResolution: https://undocs.org/en/A/RES/72/138
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:209
+SUMMARY:Arabic Language Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241218
+DTEND;VALUE=DATE:20241219
+URL:https://www.un.org/en/observances/arabic-language-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/arabic-language-d
+ ay
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:208
+SUMMARY:International Migrants Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241218
+DTEND;VALUE=DATE:20241219
+URL:https://www.un.org/en/observances/migrants-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/migrants-day\n\nR
+ esolution: https://undocs.org/en/A/RES/55/93
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:210
+SUMMARY:International Human Solidarity Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241220
+DTEND;VALUE=DATE:20241221
+URL:https://www.un.org/en/observances/human-solidarity-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/human-solidarity-
+ day\n\nResolution: https://undocs.org/en/A/RES/60/209
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:211
+SUMMARY:World Basketball Day
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241221
+DTEND;VALUE=DATE:20241222
+URL:https://www.un.org/en/observances/basketball-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/basketball-day\n\
+ nResolution: https://undocs.org/en/A/RES/77/324
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20240506T053842Z
+LAST-MODIFIED:20240506T053843Z
+DTSTAMP:20240506T053843Z
+UID:212
+SUMMARY:International Day of Epidemic Preparedness
+RRULE:FREQ=YEARLY
+DTSTART;VALUE=DATE:20241227
+DTEND;VALUE=DATE:20241228
+URL:https://www.un.org/en/observances/epidemic-preparedness-day
+DESCRIPTION:Observance: https://www.un.org/en/observances/epidemic-prepared
+ ness-day\n\nResolution: https://undocs.org/en/A/RES/75/27
+END:VEVENT
+END:VCALENDAR
